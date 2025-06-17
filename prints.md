@@ -11,9 +11,9 @@
 ## 3. Criação de um Objeto `Planta`
 
 ![Objeto Planta](print3.png)  
-*Figura 3: Objeto `Planta` criado com os valores: nome "Hortelã", tipo "Tempero", preço 5.5, e data de cadastro.*
+*Figura 3: Resultado do método `create(planta)` retornando o objeto armazenado no banco de dados.*
 
 ## 4. Inserção no Banco de Dados
 
 ![Resultado do Método Create](print4.png)  
-*Figura 4: Resultado do método `create(planta)` retornando o objeto armazenado no banco de dados.*
+*Figura 4: Objeto `Planta` criado com os valores: nome "Hortelã", tipo "Tempero", preço 5.5, e data de cadastro.*
